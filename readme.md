@@ -98,8 +98,8 @@ Now that you are mining, you can use the rest of your system to do other things.
 [1] https://pve.proxmox.com/wiki/Pci_passthrough
 [2] https://www.youtube.com/watch?v=fgx3NMk6F54
 [3] https://www.youtube.com/watch?v=OHiQqJcrjdk
+[4] https://www.youtube.com/watch?v=Limv8nakKh4
 
 Thank you to these fantastic content creators who got me to where I am today. With the spare resources on my mining rig, I am running a FluxNode. :)
 
 Happy Mining! 
-
